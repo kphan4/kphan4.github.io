@@ -47,13 +47,7 @@ img {
 
 
 
-.heading {
-/*    position: fixed;*/
-    background: white;
-    position: fixed;
-    z-index: 1;
 
-}
 
 .navigation {
     background: #666;
