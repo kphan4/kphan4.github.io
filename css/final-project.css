@@ -1,0 +1,11 @@
+img {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    max-height: 450px;
+}
+
+main {
+  text-align: center;
+}
