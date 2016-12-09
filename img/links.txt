@@ -1,9 +1,0 @@
-user interview: https://drive.google.com/open?id=1oaUxlyzmYO6KUqTQ7nufINupS9MGAkGNw4G-21-kz5I
-competitor analysis: https://drive.google.com/open?id=1FBMArCf3AVzRZSj32xo0Gw8QRgfRJbsXkwoZnFpGf54
-fvm: https://drive.google.com/open?id=1UmfYHwO3W1JRdzGv6Dyyc-BLqx0PP5VQcKXfTSBh5QA
-fp: https://drive.google.com/open?id=1iLGKTImp2W2dbtczdI9o5EjbCxNYKzRTAlsuJKnYqk4
-
-userstories: https://drive.google.com/open?id=1rLSfiaztU2oE5HVFBByOALavKqYXA9p-A7JFQPYfO3o
-cognitive walkthrough: https://drive.google.com/open?id=1A2E93u1jI2e69m73H0bpZ9FGlS6YRrqdPOUzaXL-QOg
-Results of test 1: https://usabilityhub.com/tests/c9422b4c91f1/results/abb6112406c5 
-results of test 2: https://usabilityhub.com/tests/4cbb05c52307/results/d62a1fb32dc5
